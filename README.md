@@ -6,7 +6,7 @@
 
 > Browse [source code](https://github.com/NetFrameworkTemplates/winservice-netfx), view live demo [selfhost.web-templates.io](http://selfhost.web-templates.io) and install with [dotnet-new](http://docs.servicestack.net/dotnet-new):
 
-    $ npm install -g @servicestack/cli
+    $ dotnet tool install --global web
 
-    $ dotnet-new winservice-netfx ProjectName
+    $ web new winservice-netfx ProjectName
 
